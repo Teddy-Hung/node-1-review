@@ -1,0 +1,2 @@
+# we want to ignore node-modules because it's unecessary
+node_modules
